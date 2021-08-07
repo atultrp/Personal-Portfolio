@@ -1,7 +1,8 @@
 
 # ⚡️ Personal Portfolio ⚡️
 
-This website is the personal portfolio of mine, here you can also find what I'm capable to do, my projects and my contact to because after seeing this portfolio, you wanna talk to me. 😎
+This website is the personal portfolio of mine, here you can also find what I'm capable to do, my projects and my contact to because after seeing this portfolio,
+you feel that you wanna talk to me. 😎
 
 ## 📃️ Documentation
 
